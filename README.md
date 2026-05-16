@@ -16,7 +16,17 @@
 [![instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](YOUR-INSTAGRAM-LINK)
 
 </div>
+<div align="center">
 
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop" width="100%"/>
+
+# Hey 👋 I'm Arsanuois Armia
+
+### 💻 Web Developer | 🤖 AI Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;AI+Student;Always+Learning+New+Things"/>
+
+</div>
 <hr></hr>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20Use-0A66C2)
