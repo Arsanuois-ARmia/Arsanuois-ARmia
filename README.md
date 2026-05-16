@@ -18,7 +18,7 @@
 
 # 🚀 About Me
 
-```js
+js
 const arsanuois = {
   role: "Web Developer",
   university: "Badr University in Cairo",
